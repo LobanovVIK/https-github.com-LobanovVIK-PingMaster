@@ -40,4 +40,8 @@ Architecture: MVVM (Model-View-ViewModel)
 
 Network: Основано на библиотеке SimplePing (Apple) с использованием Bridging Header для интеграции Objective-C кода.
 
-
+### Screenshots
+<p align="center">
+  <img src="IMG_9287.png" width="300">
+  <img src="IMG_9286.png" width="300">
+</p>
