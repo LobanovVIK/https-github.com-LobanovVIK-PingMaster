@@ -42,6 +42,6 @@ Network: Основано на библиотеке SimplePing (Apple) с исп
 
 ### Screenshots
 <p align="center">
-  <img src="IMG_9287.png" width="300">
+  <img src="https://github.com/LobanovVIK/https-github.com-LobanovVIK-PingMaster/blob/main/IMG_9283.PNG" width="300">
   <img src="IMG_9286.png" width="300">
 </p>
