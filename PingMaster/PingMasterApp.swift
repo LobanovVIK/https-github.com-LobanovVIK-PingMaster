@@ -11,7 +11,7 @@ import SwiftUI
 struct PingMasterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainPingView()
         }
     }
 }

@@ -1,24 +1,24 @@
+////
+////  ContentView.swift
+////  PingMaster
+////
+////  Created by Lobanov Viktor on 04.02.2026.
+////
 //
-//  ContentView.swift
-//  PingMaster
+//import SwiftUI
 //
-//  Created by Lobanov Viktor on 04.02.2026.
+//struct ContentView: View {
+//    var body: some View {
+//        VStack {
+//            Image(systemName: "globe")
+//                .imageScale(.large)
+//                .foregroundStyle(.tint)
+//            Text("Hello, world!")
+//        }
+//        .padding()
+//    }
+//}
 //
-
-import SwiftUI
-
-struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
-
-#Preview {
-    ContentView()
-}
+//#Preview {
+//    ContentView()
+//}   УДАЛИТЬ ПОТОМ !!!!!!!!!!!!!!!!!!
